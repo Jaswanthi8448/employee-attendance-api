@@ -13,6 +13,7 @@ __pycache__/
 *.docx
 *.jpg
 *.png
+.env*
 
 # original kit, extracted locally
 candidate_kit/
